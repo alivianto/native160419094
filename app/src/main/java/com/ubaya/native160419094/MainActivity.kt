@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
 
     // Coba 1
 
+    //coba about
+    var about:Boolean = true
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
